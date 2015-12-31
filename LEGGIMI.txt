@@ -6,14 +6,14 @@ Progetto di Meloni Roberto
 
 
 #FILE CHE ESEGUE LE FUNZIONI RICHIESTE NELLA VERSIONE BASIC
-./samples/basic2.py
+./sample/basic2.py
 
 
  #file di esempio su come usare i  metodi di ForumManager.
-./samples/esamples/listpost.py       # input: None, stampa lista dei post presenti
-./samples/esamples/listcom.py        # input: ID Post, stampa lista dei commenti presenti del Post scelto
-./samples/esamples/registerpost.py   # input: titolo e corpo di un Post, crea in automatico un hash e
+./sample/esamples/listpost.py       # input: None, stampa lista dei post presenti
+./sample/esamples/listcom.py        # input: ID Post, stampa lista dei commenti presenti del Post scelto
+./sample/esamples/registerpost.py   # input: titolo e corpo di un Post, crea in automatico un hash e
  				       registra il post
-./samples/esamples/registercom.py    # input: ID Post e corpo commento, crea in automatico un hash e registra
+./sample/esamples/registercom.py    # input: ID Post e corpo commento, crea in automatico un hash e registra
  				       il commento
 
