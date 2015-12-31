@@ -1,12 +1,10 @@
-Progetto di Meloni Roberto
 
 ./dapp/forum.py
 ./library/forum/ForumManager.py
 
 
-
 #FILE CHE ESEGUE LE FUNZIONI RICHIESTE NELLA VERSIONE BASIC
-./sample/basic2.py
+./sample/basic.py
 
 
  #file di esempio su come usare i  metodi di ForumManager.
