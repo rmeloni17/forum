@@ -1,7 +1,3 @@
-#!/usr/bin/python3
-# Copyright (c) 2015 Meloni Roberto
-# Distributed under the MIT software license, see the accompanying
-# file COPYING or http://www.opensource.org/licenses/mit-license.php.
 from libcontractvm import Wallet, WalletExplorer, ConsensusManager
 from forum import ForumManager
 import sys
